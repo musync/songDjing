@@ -1,0 +1,11 @@
+[
+  {
+    "name": "fragmented",
+    "path": "static/main/songs/1.mp3",
+    "mixin": true
+  }, {
+    "name": "red-e",
+    "path": "static/main/songs/2.mp3",
+    "mixin": false
+  }
+]
